@@ -1,7 +1,6 @@
-
 # My first project
 
-blue-landing-page is my fisrt project and developed with FlexBox.
+blue-landing-page is my first project and developed with FlexBox.
 
 ## Screenshots
 
@@ -9,5 +8,4 @@ blue-landing-page is my fisrt project and developed with FlexBox.
 
 ## Authors
 
-- [@rezazirenejad](https://www.github.com/rezazirenejad)
-
+-   [@rezazirenejad](https://www.github.com/rezazirenejad)
